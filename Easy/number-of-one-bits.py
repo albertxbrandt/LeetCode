@@ -10,3 +10,6 @@ class Solution:
         for i in range(32): # loop through 32 times because there are 32 bits being given in the input
             count += (n >> i) & 1 # get the right most bit and compare it to 1, if it is 1 then it will add to the count.
         return count
+    
+sol = Solution()
+print(sol.hammingWeight(0b00000000000000000000000000010001)) # Output 2

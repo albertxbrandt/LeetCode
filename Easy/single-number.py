@@ -1,4 +1,4 @@
-# Problem: Neetcode150 (https://neetcode.io/problems/single-number?list=neetcode150)
+# Problem: NeetCode Single Number (https://neetcode.io/problems/single-number?list=neetcode150)
 # Thought Process: For every number that appears twice they need to be cancelled out. Leaving a single number not cancelled out.
 
 class Solution:
