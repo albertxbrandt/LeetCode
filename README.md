@@ -39,8 +39,8 @@ Feel free to browse, but I recommend trying to solve the problems yourself on [L
 
 A quick overview of my progress (updated manually):
 
-- **Total Solved:** 9
-- **Easy:** 7
+- **Total Solved:** 10
+- **Easy:** 8
 - **Medium:** 1
 - **Hard:** 0
 - **Other:** 1
