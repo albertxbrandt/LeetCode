@@ -24,6 +24,7 @@ Here is a list of the problems I have solved so far.
 | [Anagram Groups](https://leetcode.com/problems/group-anagrams/) | [Python](./Medium/anagram-groups.py) | Medium | Python |
 | [Lost Fragments]() | [Python](./other/lost-fragments.py) | Other | Python |
 | [Is Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./Easy/is-palindrome.py) | Easy | Python |
+| [Two Integer Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./Medium/two-integer-sum-ii.py) | Medium | Python |
 | ... | ... | ... | ... |
 ---
 
@@ -39,8 +40,8 @@ Feel free to browse, but I recommend trying to solve the problems yourself on [L
 
 A quick overview of my progress (updated manually):
 
-- **Total Solved:** 10
+- **Total Solved:** 11
 - **Easy:** 8
-- **Medium:** 1
+- **Medium:** 2
 - **Hard:** 0
 - **Other:** 1
