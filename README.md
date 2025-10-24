@@ -23,6 +23,8 @@ Here is a list of the problems I have solved so far.
 | [Two Integer Sum](https://leetcode.com/problems/two-sum/) | [Python](./Easy/two-integer-sum.py) | Easy | Python |
 | [Anagram Groups](https://leetcode.com/problems/group-anagrams/) | [Python](./Medium/anagram-groups.py) | Medium | Python |
 | [Lost Fragments]() | [Python](./other/lost-fragments.py) | Other | Python |
+| [Is Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./Easy/is-palindrome.py) | Easy | Python |
+
 | ... | ... | ... | ... |
 ---
 
