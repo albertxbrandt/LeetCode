@@ -24,7 +24,7 @@ Here is a list of the problems I have solved so far.
 | [Anagram Groups](https://leetcode.com/problems/group-anagrams/) | [Python](./Medium/anagram-groups.py) | Medium | Python |
 | [Lost Fragments]() | [Python](./other/lost-fragments.py) | Other | Python |
 | [Is Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./Easy/is-palindrome.py) | Easy | Python |
-| [Two Integer Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./Medium/two-integer-sum-ii.py) | 
+| [Two Integer Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./Medium/two-integer-sum-ii.py) | Medium | Python |
 | [Three Integer Sum](https://leetcode.com/problems/3sum/) | [Python](./Medium/three-integer-sum.py) | Medium | Python |
 | [Max Water Container](https://leetcode.com/problems/container-with-most-water/) | [Python](./Medium/max-water-contianer.py) | Medium | Python |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./Medium/products-of-array-discluding-self.py) | Medium | Python |
