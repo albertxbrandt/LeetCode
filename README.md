@@ -29,6 +29,7 @@ Here is a list of the problems I have solved so far.
 | [Max Water Container](https://leetcode.com/problems/container-with-most-water/) | [Python](./Medium/max-water-contianer.py) | Medium | Python |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./Medium/products-of-array-discluding-self.py) | Medium | Python |
 | [Best Time to Buy And Sell Crypto](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Python](./Easy/buy-and-sell-crypto.py) | Easy | Python |
+| [Longest Substring Without Duplicates](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./Medium/longest-substring-without-duplicates.py) | Medium | Python |
 | ... | ... | ... | ... |
 ---
 
@@ -44,8 +45,8 @@ Feel free to browse, but I recommend trying to solve the problems yourself on [L
 
 A quick overview of my progress (updated manually):
 
-- **Total Solved:** 15
+- **Total Solved:** 16
 - **Easy:** 9
-- **Medium:** 5
+- **Medium:** 6
 - **Hard:** 0
 - **Other:** 1
