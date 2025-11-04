@@ -30,6 +30,7 @@ Here is a list of the problems I have solved so far.
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./Medium/products-of-array-discluding-self.py) | Medium | Python |
 | [Best Time to Buy And Sell Crypto](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Python](./Easy/buy-and-sell-crypto.py) | Easy | Python |
 | [Longest Substring Without Duplicates](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./Medium/longest-substring-without-duplicates.py) | Medium | Python |
+| [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [Python](./Medium/permutation-string.py) | Medium | Python |
 | ... | ... | ... | ... |
 ---
 
@@ -45,8 +46,8 @@ Feel free to browse, but I recommend trying to solve the problems yourself on [L
 
 A quick overview of my progress (updated manually):
 
-- **Total Solved:** 16
+- **Total Solved:** 17
 - **Easy:** 9
-- **Medium:** 6
+- **Medium:** 7
 - **Hard:** 0
 - **Other:** 1
